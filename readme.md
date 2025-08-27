@@ -15,6 +15,6 @@
 
 ## Day 3 
 - Tk GUI
-- Project Example  
+- Project Example
 - Production with PM2/Task schedule
 - Post quiz
