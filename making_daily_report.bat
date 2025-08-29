@@ -1,0 +1,1 @@
+conda activate python_office && python main.py
